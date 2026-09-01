@@ -156,14 +156,20 @@ The processed Xuelong2-DWL data will be archived in Zenodo at https://doi.org/10
 
 ## Licence
 
-No software licence has yet been selected. Add the author- or institution-approved licence before making the repository public. MIT or BSD-3-Clause are common permissive choices, but the selection remains an author/institution decision.
+Copyright (c) 2026 Jiayi Li and contributors
 
 ## Citation
 
 After the archived release DOI has been assigned, cite the code as:
 
 ```text
-[Authors] ([Year]). Xuelong2-DWL ERA5 collocation and technical-validation code, version 1.0.0. Zenodo. [Code DOI].
+authors:
+  - family-names: "Li"
+    given-names: "Jiayi"
+    affiliation: "School of Aerospace Science, Harbin Institute of Technology, Shenzhen, Shenzhen 518055, China"
+ - family-names: "Yu"
+    given-names: "Zhibin"
+    affiliation: "School of Aerospace Science, Harbin Institute of Technology, Shenzhen, Shenzhen 518055, China"
 ```
 
 ## Release checklist
