@@ -152,7 +152,7 @@ The downloaded ERA5 NetCDF files are not redistributed in this repository. The C
 
 ## Data availability
 
-The processed Xuelong2-DWL data will be archived in Zenodo at https://doi.org/10.5281/zenodo.22177312.
+The Xuelong2 Shipborne Doppler Lidar Wind-Profile Dataset from the 40th Chinese National Antarctic Research Expedition (Xuelong2-DWL) will be archived in Mendeley Data as version 1 under the reserved DOI https://doi.org/10.17632/w8grt5g2b8.1.
 
 ## Licence
 
@@ -172,9 +172,3 @@ authors:
     affiliation: "School of Aerospace Science, Harbin Institute of Technology, Shenzhen, Shenzhen 518055, China"
 ```
 
-## Release checklist
-
-- Confirm the software licence.
-- Add the GitHub URL and archived release DOI to `CODE_AVAILABILITY.md`.
-- Scan the repository for passwords, API keys, and personal absolute paths.
-- Create GitHub release `v1.0.0` and archive it with Zenodo.
